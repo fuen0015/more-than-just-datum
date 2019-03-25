@@ -1,3 +1,15 @@
 html {
   font-family: 'IBM Plex Sans', sans-serif;
 }
+
+.header {
+  background-color: #ddd;
+}
+
+.mid {
+  background-color: #efefef;
+}
+
+ul {
+  background-color: #fff;
+}
